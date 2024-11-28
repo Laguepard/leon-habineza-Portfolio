@@ -37,3 +37,10 @@ The overall goals of my life are to always improve and learn, commit to honesty,
 - **FOOD FOR THE HUNGRY RWANDA** - Monitoring Annual Intermediate Outcome Results (October 2021)
 - **RWAMREC** - Promoting Positive Masculinity for SRHR and Gender Equality (2020-2021)
 - **AMPLIFY** - Research Assistant (November-December 2020)
+
+
+
+git add README.md _config.yml
+git commit -m "Add CV content"
+git push origin main
+
