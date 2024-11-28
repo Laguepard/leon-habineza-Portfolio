@@ -1,1 +1,7 @@
+title: "Léon Habineza's CV"
+description: "A professional resume for Léon Habineza"
+theme: minima
+baseurl: "" # Leave empty for user or organization site
+url: "https://your-username.github.io" # Replace with your GitHub Pages URL
+markdown: kramdown
 
