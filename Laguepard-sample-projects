@@ -1,1 +1,6 @@
-
+project-directory/
+├── README.md
+├── sample-projects/
+│   ├── Excel-Dashboard-Project-Tracking.xlsx
+│   ├── Data-Analysis-Scripts.sql
+│   ├── Monitoring-Report-Example.pdf
