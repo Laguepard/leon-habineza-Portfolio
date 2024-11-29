@@ -1,7 +1,56 @@
-title: "Léon Habineza's CV"
-description: "A professional resume for Léon Habineza"
-theme: minima
-baseurl: "" # Leave empty for user or organization site
-url: "https://your-username.github.io" # Replace with your GitHub Pages URL
-markdown: kramdown
+# Configuration File for Léon Habineza's Portfolio Repository
 
+general:
+  author: "Léon Habineza"
+  email: 
+    - "leonhabineza@gmail.com"
+    - "leon.habineza@proteknon.net"
+  phone: "+250 784-792-607"
+  description: "Comprehensive repository for the professional journey and portfolio of Léon Habineza."
+
+projects:
+  - name: "Proteknon Foundation Research"
+    role: "Lead Researcher and Logistics Manager"
+    year: "2019 - Present"
+  - name: "Hope Initiative Rwanda Org."
+    role: "Monitoring and Evaluation Officer"
+    year: "2019 - 2021"
+  - name: "Kids Play International"
+    role: "Training Facilitator"
+    year: "2018"
+  - name: "Food for the Hungry Rwanda"
+    role: "Team Leader for Enumerators"
+    year: "2021"
+
+skills:
+  technical:
+    - "SPSS"
+    - "NVIVO"
+    - "SQL"
+    - "MAXQDA"
+    - "CompTIA A+"
+    - "CCNA"
+  soft:
+    - "Project Management"
+    - "Research Design"
+    - "Monitoring and Evaluation"
+    - "Training and Development"
+  languages:
+    - "English"
+    - "French"
+    - "Kinyarwanda"
+
+education:
+  - degree: "Master of Business Administration"
+    specialization: "Project Management"
+    year: "2024"
+  - degree: "Bachelor of Public Health"
+    honors: "Honours"
+    institution: "Catholic University of Rwanda"
+    year: "2021"
+
+tools:
+  - "Power BI"
+  - "Tableau"
+  - "Excel"
+  - "Google Suite"
