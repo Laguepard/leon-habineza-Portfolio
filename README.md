@@ -38,14 +38,6 @@ I am a dedicated professional with expertise in public health, research, monitor
 - **Languages**: Fluent in English, French, and Kinyarwanda.  
 - **Research Tools**: MAXQDA, NVIVO, SPSS, Tableau.  
 - **IT Skills**: CompTIA A+, CCNA.  
-- **Office Suites**: Microsoft Office, G-Suite.  
-
-
-
-
-
-
-
 
 ---
 
@@ -126,6 +118,36 @@ I am a dedicated professional with expertise in public health, research, monitor
 
 
 
+---
+
+## Sample Projects  
+
+### **Dashboards and Visualizations**  
+- **Excel Dashboard for Project Tracking**:  
+   [Download Excel File](./sample-projects/Excel-Dashboard-Project-Tracking.xlsx)  
+   A dynamic dashboard for monitoring project progress and key performance indicators (KPIs).  
+
+- **Tableau Dashboard – Education Metrics**:  
+   [View Tableau Public Link](https://public.tableau.com/profile/leonhabineza)  
+   Interactive visualizations of academic performance and project implementation.  
+
+### **Data Analysis and SQL**  
+- **SQL Scripts for Data Cleaning and Analysis**:  
+   [Download SQL Scripts](./sample-projects/Data-Analysis-Scripts.sql)  
+   Queries for cleaning, transforming, and summarizing research data.  
+
+- **SPSS Data Analysis**:  
+   [Download SPSS Output File](./sample-projects/SPSS-Analysis-Report.sav)  
+   Statistical analysis performed for a nutrition and education project.  
+
+### **Research and Reports**  
+- **Monitoring Report Example**:  
+   [Download PDF](./sample-projects/Monitoring-Report-Example.pdf)  
+   Detailed project evaluation report for Food for the Hungry.  
+
+- **Qualitative Research Transcription Example**:  
+   [Download Word Document](./sample-projects/Transcription-Example.docx)  
+   Sample transcription and translation from the Barrier to Health Services project.  
 
 
 
@@ -151,10 +173,7 @@ I am a dedicated professional with expertise in public health, research, monitor
 
 ## 📂 Repository Structure
 
-1. `config.myl`: Configuration file for project-specific settings.  
-2. `research/`: Directory containing research-related documentation and tools.  
-3. `training/`: Modules, manuals, and resources for training activities.  
-4. `projects/`: Details of past and ongoing projects.
+
 
 ---
 
