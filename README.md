@@ -1,8 +1,7 @@
-# leon-habineza-Portfolio
 # Léon Habineza, MBA, BPH
 
 ## Contact Information
-- **Email:** [leonhabineza@gmail.com](mailto:leonhabineza@gmail.com)
+- **Email:** leonhabineza@gmail.com
 - **Phone:** +250 784-792-607
 
 ---
@@ -43,4 +42,3 @@ The overall goals of my life are to always improve and learn, commit to honesty,
 git add README.md _config.yml
 git commit -m "Add CV content"
 git push origin main
-
