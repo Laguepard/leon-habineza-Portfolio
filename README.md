@@ -1,14 +1,16 @@
 # Léon Habineza Portfolio Repository
+# Researcher | Logistic Manager | Monitoring & Evaluation Specialist
 
-Welcome to the portfolio repository of Léon Habineza, BPH. This repository serves as a comprehensive showcase of my professional journey, skills, experiences, and projects. 
+Welcome to the portfolio repository of Léon Habineza, MBA, BPH. 
+This repository serves as a comprehensive showcase of my professional journey, skills, experiences, and projects. 
 
 ---
 
 ## 📜 About Me
 
-I am a dedicated professional with expertise in public health, research, monitoring and evaluation, and project management. My career has been marked by a passion for problem-solving, learning, and achieving measurable results. With extensive experience in qualitative and quantitative research, I am committed to promoting health, education, gender equality, and sustainable development.
+I am a dedicated professional with expertise in public health, research, monitoring and evaluation, and project management. My career has been marked by a passion for problem-solving, learning, and achieving measurable results. With extensive experience in qualitative and quantitative research, I am committed to promoting health, education, gender equality, and sustainable development. I have successfully contributed to over 30 projects, providing high-quality results that inform policy and practice. My ability to coordinate multidisciplinary teams, adhere to deadlines, and deliver accurate data sets me apart.
 
-- **Email**: [leonhabineza@gmail.com](mailto:leonhabineza@gmail.com) | [leon.habineza@proteknon.net](mailto:leon.habineza@proteknon.net)
+- **Email**: [leonhabineza@gmail.com], [leon.habineza@proteknon.net]
 - **Phone**: +250 784-792-607
 
 ---
@@ -17,6 +19,9 @@ I am a dedicated professional with expertise in public health, research, monitor
 
 - **Master of Business Administration (Specialization: Project Management)** - 2024
 - **Bachelor of Public Health (Honours)** - Catholic University of Rwanda, 2021
+
+
+
 
 ---
 
@@ -29,49 +34,118 @@ I am a dedicated professional with expertise in public health, research, monitor
 
 ---
 
-## 💼 Experience
-
-### **Proteknon Foundation**  
-*Researcher/Logistic Manager*  
-**Jan 2019 – Present**  
-- Managed logistics for research projects on gender, youth, and education.  
-- Designed and translated data collection tools.  
-- Coordinated field research activities.
-
-### **Hope Initiative Rwanda Org.**  
-*Monitoring, Evaluation, and Learning Officer*  
-**2019 – 2021**  
-- Designed M&E frameworks.  
-- Conducted field research and monitored project progress.
-
-### **Umurava Work**  
-*Training Manager*  
-**2020 – 2021**  
-- Conducted technical training in research methodologies.  
-- Developed training modules for fieldwork and data cleaning.
-
----
-
-## 📊 Research Projects
-
-### **Health-related Studies**
-- Food for the Hungry Rwanda: Annual Outcome Monitoring and Ground-Truthing for Agricultural Projects (2021).  
-- RWAMREC: Promoting positive masculinity in informal settlements (2020-2021).  
-- Swiss TPH: Barriers to accessing health and nutrition services for vulnerable populations (2019).
-
-### **Social Impact Studies**
-- Kids Play International: Using sports to promote gender equity (2018).  
-- Mastercard Foundation: Barriers to school return post-COVID-19 (2020).  
-- Ohio State University: Reintegration of genocide perpetrators (2017-2019).
-
----
-
-## 🌐 Skills and Tools
 
 - **Languages**: Fluent in English, French, and Kinyarwanda.  
 - **Research Tools**: MAXQDA, NVIVO, SPSS, Tableau.  
 - **IT Skills**: CompTIA A+, CCNA.  
 - **Office Suites**: Microsoft Office, G-Suite.  
+
+
+
+
+
+
+
+
+---
+
+## Professional Experience  
+
+### **Field Research and Coordination** 
+- **Monitoring-Annual Outcome Results** – Food for the Hungry, 2021  
+   Managed enumerators, ensured adherence to data collection protocols, and supported household surveys. 
+
+
+### **Qualitative Research and Coordination** 
+- **Positive Masculinity for SRHR** – RWAMREC, 2020–2021  
+   Coordinated logistics, supervised data collectors, and provided insights for a study on gender equality.  
+- **Barrier to School Return After COVID-19** – Amplify, 2020  
+   Transcribed and translated data for a study on barriers to education in East Africa.  
+-  **Barriers to Health Services Access** – Swiss TPH, 2019  
+   Coordinated fieldwork, recruited participants, transcribed, and translated interviews for health service accessibility studies.  
+
+ 
+
+- **Gender Action Plan Development** – Land O’Lakes, 2019  
+   Facilitated focus groups, developed gender analysis methodologies, and drafted action plans.
+  - **Nutrition Project** – Swiss TPH, 2018  
+   Conducted transcription and translation of interviews to support nutrition-focused initiatives in Rwanda.  
+
+- **Adolescent Perceptions Around Sex and Love** – Proteknon, 2018  
+   Conducted focus group discussions, transcribed, and translated data on adolescent perspectives.  
+
+---
+
+## Key Skills  
+
+### **Research and Analysis**  
+- Qualitative and quantitative data collection and analysis using tools like SPSS, NVIVO, and Tableau.  
+- Expertise in transcription, translation, and reporting for academic and operational purposes.  
+
+### **Project Management**  
+- Planning, executing, and evaluating programs in various sectors, including health and education.  
+- Managing teams of enumerators and ensuring compliance with project objectives.  
+
+### **Facilitation and Capacity Building**  
+- Conducting training sessions tailored to address skill gaps in project teams.  
+- Guiding communities in developing actionable recommendations for sustainability.  
+
+### **Translation and Transcription**  
+- Providing high-quality translations and transcriptions in Kinyarwanda, English, and French for over 30 projects.  
+
+---
+
+## Projects at a Glance  
+
+### **Health-Related Studies**  
+1. Monitoring Annual Outcome Results – Food for the Hungry, 2021  
+2. Barriers to Health Services Access – Swiss TPH, 2019  
+3. Nutrition Project – Swiss TPH, 2018  
+4. 
+
+### **Education and Youth Engagement**  
+1. Barrier to School Return After COVID-19 – Amplify, 2020  
+2. Adolescent Perceptions Around Sex and Love – Proteknon, 2018  
+
+### **Gender and Social Equity**  
+1. Positive Masculinity for SRHR – RWAMREC, 2020–2021  
+2. Gender Action Plan Development – Land O’Lakes, 2019  
+
+---
+
+## Certifications  
+- [Certification Name], [Issuing Organization], [Year]  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ---
 
@@ -87,5 +161,5 @@ I am a dedicated professional with expertise in public health, research, monitor
 ## 📧 Contact
 
 Feel free to reach out for collaboration, consultation, or research opportunities.  
-📧 Email: [leonhabineza@gmail.com](mailto:leonhabineza@gmail.com) | [leon.habineza@proteknon.net](mailto:leon.habineza@proteknon.net)  
+📧 Email: [leonhabineza@gmail.com], [leon.habineza@proteknon.net]
 📱 Phone: +250 784-792-607
