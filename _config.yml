@@ -1,56 +1,44 @@
-# Configuration File for Léon Habineza's Portfolio Repository
+title: "Léon Habineza Portfolio"
+description: "A detailed professional portfolio showcasing my work in research, project management, and public health."
+author: "Léon Habineza"
+email: "leonhabineza@gmail.com"
+social:
+  linkedin: "https://www.linkedin.com/in/leonhabineza"
+  github: "https://github.com/leonhabineza"
+  twitter: "https://twitter.com/leonhabineza"
 
-general:
-  author: "Léon Habineza"
-  email: 
-    - "leonhabineza@gmail.com"
-    - "leon.habineza@proteknon.net"
-  phone: "+250 784-792-607"
-  description: "Comprehensive repository for the professional journey and portfolio of Léon Habineza."
+# Navigation
+navigation:
+  - name: "About Me"
+    link: "#about-me"
+  - name: "Experience"
+    link: "#professional-experience"
+  - name: "Projects"
+    link: "#projects"
+  - name: "Skills"
+    link: "#key-skills"
+  - name: "Contact"
+    link: "#contact"
 
+# Projects
 projects:
-  - name: "Proteknon Foundation Research"
-    role: "Lead Researcher and Logistics Manager"
-    year: "2019 - Present"
-  - name: "Hope Initiative Rwanda Org."
-    role: "Monitoring and Evaluation Officer"
-    year: "2019 - 2021"
-  - name: "Kids Play International"
-    role: "Training Facilitator"
-    year: "2018"
-  - name: "Food for the Hungry Rwanda"
-    role: "Team Leader for Enumerators"
-    year: "2021"
-
-skills:
-  technical:
-    - "SPSS"
-    - "NVIVO"
-    - "SQL"
-    - "MAXQDA"
-    - "CompTIA A+"
-    - "CCNA"
-  soft:
-    - "Project Management"
-    - "Research Design"
-    - "Monitoring and Evaluation"
-    - "Training and Development"
-  languages:
-    - "English"
-    - "French"
-    - "Kinyarwanda"
-
-education:
-  - degree: "Master of Business Administration"
-    specialization: "Project Management"
-    year: "2024"
-  - degree: "Bachelor of Public Health"
-    honors: "Honours"
-    institution: "Catholic University of Rwanda"
-    year: "2021"
-
-tools:
-  - "Power BI"
-  - "Tableau"
-  - "Excel"
-  - "Google Suite"
+  - title: "Barriers to Health Services Access"
+    organization: "Swiss TPH"
+    year: 2019
+    description: "Fieldwork coordination, participant recruitment, and data analysis."
+  - title: "Nutrition Project"
+    organization: "Swiss TPH"
+    year: 2018
+    description: "Transcription and translation for nutrition-focused studies."
+  - title: "Monitoring Annual Results"
+    organization: "Food for the Hungry"
+    year: 2021
+    description: "Oversight of enumerators and data collection protocols."
+  - title: "Positive Masculinity for SRHR"
+    organization: "RWAMREC"
+    year: 2020–2021
+    description: "Team coordination and logistics for gender equality studies."
+  - title: "Barrier to School Return After COVID-19"
+    organization: "Amplify"
+    year: 2020
+    description: "Support for transcription and translation in education research."
