@@ -7,7 +7,9 @@
 ---
 
 ## Profile
-The overall goals of my life are to always improve and learn, commit to honesty, sincerity, kindness, trust, and modesty. I am hardworking, self-motivated, and mature with an outgoing personality and excellent communication skills.
+The overall goals of my life are to always improve and learn, 
+commit to honesty, sincerity, kindness, trust, and modesty. 
+I am hardworking, self-motivated, and mature with an outgoing personality and excellent communication skills.
 
 ---
 
